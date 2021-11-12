@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+
+	<meta http-equic="X-UA-Compatible" content="IE=edge">
+	<meta name="viewpoint" content="width=device-width, initial scale=1">
+
+	<title>Wi-Fi Hotspot Accessibility</title>
+
+	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+</head>
+
+<body>
+	<div class="top">
+
+
+		<img src="images/wifi.jpg" alt="Wi-Fi">
+
+		<div>&nbsp</div>
+
+		<h1>Public Wi-Fi Hotspots More Accessible in New York City's Higher Income Boroughs</h1>
+
+		<h3>By: Aurélie Muntzel</h3>
+		<h4>Nov 12, 2021</h4>
+
+	</div>
+
+	<div class="content">
+
+
+		<p>For New York City, Wi-Fi equity has been a long time coming. There have been recent efforts by the city to expand publicly available broadband coverage through programs like Link-NYC, which provides Wi-Fi access, USB charging stations, and free calling through the 4,500 Link kiosks spread out across the five boroughs. The program, which launched in 2014 and was completed in 2016, successfully replaced the city's outdated payphone system, but failed to address digital divide. 
+
+		<p>Over <a href="https://philanthropynewyork.org/news/one-third-new-yorkers-don-t-have-internet-access-issue-funders">one-third</a> of New Yorker still are without a broadband subscription or mobile data plan, and the pandemic exacerbated the digital divide for middle and low-income residents. In an effort to bridge this gap, the city placed Wi-Fi hotspots in public spaces throughout the five boroughs, including parks, cemeteries, and libraries.</p>
+
+		<p>"One of the challenges that we [Central Queens Academy] had to overcome was ensuring thay all students had a stable connection at home. Our school was able to send laptops to all of our students working virtually", said Elizabeth Infante, a Community Engangement Specialist at a Queens Charter school. This Charter school is one among many across the country that have been approved to revieve aid from the FCC's Emergency Connectivity Fund. The program, which reimburses expenses for connectivity equipment including router, laptops, and tablets, dispenses aid to libraries and schools across the country. Three days ago, the FCC announced it will be approving another $1.1 billion, capping of the program's pricetag at $7.17 billion.</p>
+
+		<p>The city's efforts to establish multiple access points to outdoor hotspot locations is the first step among many to bridging the digital gap, but until all New Yorkers have a stable connection from home, the gap still remains.</p>
+	</div>
+
+<br>
+<br>
+
+<iframe title="
+Publicly Accessible Wi-Fi Per Borough" aria-label="chart" id="datawrapper-chart-MfR61" src="https://datawrapper.dwcdn.net/MfR61/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+<p>Link to the original datasets can be found <a href="https://data.world/city-of-ny/npnk-wrj8/workspace/file?filename=wi-fi-in-public-space-open-space-1.csv">here </a>and <a href="https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0500000US36005,36047,36061,36081,36085&tid=ACSST1Y2019.S1901"> here.</a>
+		
+<br>
+<br>
+		
+		
+
+		
+
+
+</body>
+
+</html>
