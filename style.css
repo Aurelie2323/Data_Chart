@@ -1,0 +1,26 @@
+
+html {
+	font-family: Playfair Display, serif;
+}
+
+body {
+	background-color: offwhite;
+}
+
+content {
+	display: block;
+}
+
+img {
+	width: 100%;
+}
+
+.top {
+	text-align: center;
+}
+
+.content {
+	
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
